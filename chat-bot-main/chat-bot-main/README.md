@@ -1,6 +1,5 @@
 # Chat Bot using Node.js, Express, and OpenAI API
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -69,17 +68,3 @@ cd backend
 npm start
 ```
 And the index.html file should open in your browser
-
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-This project was inspired by the capabilities of OpenAI's API.
-
-## Contact
-For any inquiries or questions, you can reach me at tyleroneildev@gmail.com
-or on my linkedin at https://ca.linkedin.com/in/tyler-oneil-dev
-
